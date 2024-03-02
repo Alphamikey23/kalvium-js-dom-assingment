@@ -33,4 +33,4 @@ footer.classList.add("dom-method-footer");
 // Challenge 2.6: Set the color of the <p> text as red using DOM manipulation.
 document.querySelector("p").style.color = "red";
 // Challenge 2.7: Remove the div with a class "copyright" using the removeAttribute method.
-document.querySelector(".copyright").removeAttribute("class");
+document.querySelector(".copyright").removeAttribute("class"); 
